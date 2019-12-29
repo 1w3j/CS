@@ -1,2 +1,3 @@
-Cover.pdf
+*.pdf
 .idea/
+out/
